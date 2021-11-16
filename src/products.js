@@ -21,7 +21,7 @@ const products = [
       'brand': 'Lonsdale',
       'category': 'Fitness gear',
       'price': 34.99,
-      'countInStock': 7,
+      'countInStock': 0,
       'rating': 4.0,
       'numReviews': 8,
     },
@@ -30,7 +30,7 @@ const products = [
       'name': 'Yoga mat',
       'image': '/images/yogamat.jpg',
       'description':
-        'Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design',
+        'Comfort, traction, and water/sweat management are of utmost importance in your workout area. Our yoga mats are engineered to provide the best in all of these areas. Used to reduce noise and protect your floors Made from 100% Recycled and Re-vulcanized Rubber.',
       'brand': 'Champion',
       'category': 'Fitness gear',
       'price': 29.99,
